@@ -1,1 +1,1 @@
-# Conexi-n-de-Python-a-bases-de-datos-Oracle
+# Conexi-n-de-Python-a-bases-de-datos-Oracle  ![image](https://github.com/user-attachments/assets/6d6e0b7c-b234-4091-9c66-10c341d38dd6)  ![image](https://github.com/user-attachments/assets/0b5feaad-b023-47a7-b5be-3e16146e6d73)
